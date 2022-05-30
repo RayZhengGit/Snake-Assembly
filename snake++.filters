@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="EscapeMenu.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameEvents.cpp" />
+    <ClCompile Include="GraphicsBufferManager.cpp" />
+    <ClCompile Include="Hud.cpp" />
+    <ClCompile Include="InputTranslator.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="MapMenu.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Snake.cpp" />
+    <ClCompile Include="Unit.cpp" />
+    <ClCompile Include="UnitManager.cpp" />
+    <ClCompile Include="ResultScreen.cpp" />
+    <ClCompile Include="OptionsMenu.cpp" />
+    <ClCompile Include="SoundSystem.cpp" />
+    <ClCompile Include="UnitFactory.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="EscapeMenu.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameEvents.h" />
+    <ClInclude Include="GraphicsBufferManager.h" />
+    <ClInclude Include="Hud.h" />
+    <ClInclude Include="InputTranslator.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="MapMenu.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Snake.h" />
+    <ClInclude Include="Unit.h" />
+    <ClInclude Include="UnitManager.h" />
+    <ClInclude Include="ResultScreen.h" />
+    <ClInclude Include="OptionsMenu.h" />
+    <ClInclude Include="SoundSystem.h" />
+    <ClInclude Include="UnitFactory.h" />
+  </ItemGroup>
+</Project>
