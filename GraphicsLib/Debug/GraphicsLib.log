@@ -1,13 +1,1 @@
-﻿  Color.cpp
-  Font.cpp
-  GraphicsBuffer.cpp
-  GraphicsSystem.cpp
-  InputEvents.cpp
-  InputSystem.cpp
-D:\Snake++\GraphicsLib\InputSystem.cpp(37,3): warning C4551: function call missing argument list
-D:\Snake++\GraphicsLib\InputSystem.cpp(38,3): warning C4551: function call missing argument list
-  Sound.cpp
-  Sprite.cpp
-  System.cpp
-  Generating Code...
-  GraphicsLib.vcxproj -> D:\Snake++\GraphicsLib\Debug\GraphicsLib.lib
+﻿  GraphicsLib.vcxproj -> C:\Users\raymond.zheng\Documents\Snake-Assembly\GraphicsLib\Debug\GraphicsLib.lib
